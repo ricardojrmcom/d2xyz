@@ -1,2 +1,2 @@
 # d2xyz
-Monorepo of public work 2
+Monorepo for public work 2
